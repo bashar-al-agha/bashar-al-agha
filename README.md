@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://orcid.org/0009-0004-5178-2345"><img alt="ORCID 0009-0004-5178-2345" src="https://img.shields.io/badge/ORCID-0009--0004--5178--2345-1E3A5F?style=flat-square&logo=orcid&logoColor=A6CE39"></a>
+  <a href="https://scholar.google.com/citations?user=4DQqDpgAAAAJ"><img alt="Google Scholar profile" src="https://img.shields.io/badge/Google%20Scholar-Profile-1E3A5F?style=flat-square&logo=googlescholar&logoColor=white"></a>
+  <a href="https://www.ncbi.nlm.nih.gov/myncbi/bashar.al%20agha.1/bibliography/public/"><img alt="NCBI My Bibliography" src="https://img.shields.io/badge/NCBI-My%20Bibliography-1E3A5F?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/dr-bashar-al-agha"><img alt="LinkedIn dr-bashar-al-agha" src="https://img.shields.io/badge/LinkedIn-dr--bashar--al--agha-1E3A5F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+"></a>
   <a href="https://bashar-portfolio-six.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Research%2C%20Practice%20%26%20Technology-1E3A5F?style=flat-square&logo=vercel&logoColor=white"></a>
   <a href="mailto:ba8160@srmist.edu.in"><img alt="Academic email ba8160@srmist.edu.in" src="https://img.shields.io/badge/SRMIST-ba8160%40srmist.edu.in-1E3A5F?style=flat-square&logo=googlescholar&logoColor=white"></a>
@@ -16,7 +18,7 @@
 
 ## About
 
-I am a doctoral researcher in Management Studies at the Faculty of Management, SRM Institute of Science and Technology (SRMIST), Chennai, India. My doctoral research (PhD in Healthcare Management and Evidence-Based Decision Making, 2025–2028) focuses on international healthcare systems and strategic expansion models: global healthcare strategy, health service internationalization and healthcare ecosystem development. My background bridges the clinical and management sciences: **BDS** (Damascus University), **BPharm** (Marwadi University), **Master in Pharmacology** (Saurashtra University) and **PGDM** (BIMTECH).
+I am a doctoral researcher in Management Studies at the Faculty of Management, SRM Institute of Science and Technology (SRMIST), Chennai, India. My doctoral research (PhD in Management Studies, 2025–2028) focuses on international healthcare systems and strategic expansion models: global healthcare strategy, health service internationalization and healthcare ecosystem development. My background bridges the clinical and management sciences: **BDS** (Damascus University), **BPharm** (Marwadi University) and **PGDM** (BIMTECH).
 
 Alongside the research I build software: tools that make rigorous quantitative analysis faster and reproducible, and web platforms for education, health services and scholarly publishing.
 
